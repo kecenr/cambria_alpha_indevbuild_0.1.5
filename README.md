@@ -10,6 +10,10 @@ CHANGELOG:
 -Added currently unimplemented and incomplete code for loading new levels
 -Added currently unimplemented and incomplete code for a Hit Points system
 
+BUGFIXES:
+
+-fixed the green dots that appeared around the Player and Rover sprites
+
 Happy Canada Day, folks!
 
 Development of Cambria is now on hiatus
