@@ -14,6 +14,9 @@ BUGFIXES:
 
 -fixed the green dots that appeared around the Player and Rover sprites
 
+HOW TO BUILD:
+Create a folder (name of folder is not important), create an Assets (capital A) folder inside that folder, put the images and sounds inside the Assets folder, put the .py files in the initial folder, execute main.py
+
 Happy Canada Day, folks!
 
 Development of Cambria is now on hiatus
